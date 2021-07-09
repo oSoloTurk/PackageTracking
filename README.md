@@ -21,7 +21,7 @@ git clone https://github.com/oSoloTurk/PackageTracking.git
 
 * Done!
 
-* (Optional)
+#### (Optional)
 * If you want to change the appearance and content of the forgot password mail, you can use the components/mail/mail_creator.php file.
 
 
@@ -29,6 +29,14 @@ git clone https://github.com/oSoloTurk/PackageTracking.git
 
 * Email: admin@yourmail.com
 * Password: 123456turkey
+
+## Some Photos
+
+![Imgur](https://i.imgur.com/04xKbUm.png)
+![Imgur](https://i.imgur.com/n1b6JJu.png)
+![Imgur](https://i.imgur.com/RAZRPzC.png)
+![Imgur](https://i.imgur.com/p6rYLsI.png)
+![Imgur](https://i.imgur.com/SdRbTRp.png)
 
 ## Help and some notes
 
