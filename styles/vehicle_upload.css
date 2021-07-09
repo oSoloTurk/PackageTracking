@@ -1,0 +1,9 @@
+nav>* {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.table-height {
+  overflow-y: scroll;
+  height: 50vh;
+}

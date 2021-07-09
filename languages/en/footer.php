@@ -1,0 +1,27 @@
+<?php 
+
+$GLOBALS['messages_footer'] = array(
+    "FOOTER_COPYRIGHT_UP_ROW" => "&copy; 2021",
+    "FOOTER_COPYRIGHT_DOWN_ROW" => "Package Service Vehicle Tracking",
+    "FOOTER_LANGUAGE_TURKISH" => "Turkish",
+    "FOOTER_LANGUAGE_ENGLISH" => "English",
+    "FOOTER_LANGUAGE_DEUTSCH" => "German",
+    "FOOTER_COLUMN_1_TITLE" => "Pages",
+    "FOOTER_COLUMN_1_1_ELEMENT" => "Home",
+    "FOOTER_COLUMN_1_2_ELEMENT" => "Vehicles",
+    "FOOTER_COLUMN_1_3_ELEMENT" => "Products",
+    "FOOTER_COLUMN_1_4_ELEMENT" => "Reports",
+    "FOOTER_COLUMN_1_5_ELEMENT" => "Users",
+    "FOOTER_COLUMN_2_TITLE" => "Profile",
+    "FOOTER_COLUMN_2_1_ELEMENT" => "Profile",
+    "FOOTER_COLUMN_2_2_ELEMENT" => "Email",
+    "FOOTER_COLUMN_2_3_ELEMENT" => "Password",
+    "FOOTER_COLUMN_2_4_ELEMENT" => "Personal Data",
+    "FOOTER_COLUMN_2_5_ELEMENT" => "Transactions on the account",
+    "FOOTER_COLUMN_2_6_ELEMENT" => "Your Transactions",
+    "FOOTER_COLUMN_3_TITLE" => "Quick Transactions",
+    "FOOTER_COLUMN_3_1_ELEMENT" => "Add Vehicle",
+    "FOOTER_COLUMN_3_2_ELEMENT" => "Add Product",
+    "FOOTER_COLUMN_3_3_ELEMENT" => "Load Vehicle",
+    "FOOTER_COLUMN_3_4_ELEMENT" => "Add New User",
+);?>

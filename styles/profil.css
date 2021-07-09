@@ -1,0 +1,23 @@
+nav>* {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.deactive {
+  display: none;
+}
+
+.float-child {
+  width: 30%;
+  padding: 1%;
+}
+
+.float-child-large {
+  width: 50%;
+  padding: 1%;
+}
+
+.table-height {
+  overflow-y: auto !important;
+  height: 30vmin !important;
+}

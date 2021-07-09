@@ -1,0 +1,27 @@
+<?php 
+
+$GLOBALS['messages_footer'] = array(
+    "FOOTER_COPYRIGHT_UP_ROW" => "&copy; 2021",
+    "FOOTER_COPYRIGHT_DOWN_ROW" => "Paketdienst Fahrzeugverfolgung",
+    "FOOTER_LANGUAGE_TURKISH" => "Türkisch",
+    "FOOTER_LANGUAGE_ENGLISH" => "Englisch",
+    "FOOTER_LANGUAGE_DEUTSCH" => "Deutsche",
+    "FOOTER_COLUMN_1_TITLE" => "Seiten",
+    "FOOTER_COLUMN_1_1_ELEMENT" => "Zuhause",
+    "FOOTER_COLUMN_1_2_ELEMENT" => "Fahrzeuge",
+    "FOOTER_COLUMN_1_3_ELEMENT" => "Produkte",
+    "FOOTER_COLUMN_1_4_ELEMENT" => "Berichte",
+    "FOOTER_COLUMN_1_5_ELEMENT" => "Benutzer",
+    "FOOTER_COLUMN_2_TITLE" => "Profil",
+    "FOOTER_COLUMN_2_1_ELEMENT" => "Profil",
+    "FOOTER_COLUMN_2_2_ELEMENT" => "Email",
+    "FOOTER_COLUMN_2_3_ELEMENT" => "Passwort",
+    "FOOTER_COLUMN_2_4_ELEMENT" => "Persönliche Daten",
+    "FOOTER_COLUMN_2_5_ELEMENT" => "Transaktionen auf dem Konto",
+    "FOOTER_COLUMN_2_6_ELEMENT" => "Ihre Transaktionen",
+    "FOOTER_COLUMN_3_TITLE" => "Schnelle Transaktionen",
+    "FOOTER_COLUMN_3_1_ELEMENT" => "Fahrzeug hinzufügen",
+    "FOOTER_COLUMN_3_2_ELEMENT" => "Produkt hinzufügen",
+    "FOOTER_COLUMN_3_3_ELEMENT" => "Fahrzeug laden",
+    "FOOTER_COLUMN_3_4_ELEMENT" => "Neuen Benutzer hinzufügen",
+);?>

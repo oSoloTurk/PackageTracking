@@ -1,0 +1,18 @@
+nav>* {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  
+  .deactive {
+    display: none;
+  }
+  
+  article {
+    margin-top: 14%;
+    margin-bottom: 12%;
+  }
+  
+  .image {
+    max-width: 25% !important;
+    max-height: 25% !important;
+  }
